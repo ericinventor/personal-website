@@ -6,7 +6,7 @@ GEM
       i18n (>= 1.6, < 2)
       minitest (>= 5.1)
       tzinfo (~> 2.0)
-    addressable (2.8.2)
+    addressable (2.8.3)
       public_suffix (>= 2.0.2, < 6.0)
     coffee-script (2.4.1)
       coffee-script-source
@@ -101,8 +101,6 @@ GEM
       pathutil (~> 0.9)
       rouge (>= 1.7, < 4)
       safe_yaml (~> 1.0)
-    jekyll-agency (1.0.7)
-      jekyll (~> 3.8)
     jekyll-avatar (0.7.0)
       jekyll (>= 3.0, < 5.0)
     jekyll-coffeescript (1.1.1)
@@ -239,8 +237,7 @@ GEM
       faraday (>= 0.17.3, < 3)
     simpleidn (0.2.1)
       unf (~> 0.1.4)
-    terminal-table (1.8.0)
-      unicode-display_width (~> 1.1, >= 1.1.1)
+    terminal-table (1.6.0)
     typhoeus (1.4.0)
       ethon (>= 0.9.0)
     tzinfo (2.0.6)
@@ -250,7 +247,6 @@ GEM
     unf (0.1.4)
       unf_ext
     unf_ext (0.0.8.2)
-    unicode-display_width (1.8.0)
     wdm (0.1.1)
     webrick (1.8.1)
 
@@ -260,9 +256,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages (~> 228)
   http_parser.rb (~> 0.6.0)
-  jekyll-agency
   jekyll-feed (~> 0.15.1)
-  minima (~> 2.5)
   tzinfo (>= 1, < 3)
   tzinfo-data
   wdm (~> 0.1.1)
