@@ -1,11 +1,11 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: Electric Bike
+subtitle: Website Design
 layout: default
-modal-id: 6
-date: 2014-07-15
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+modal-id: 5
+date: 2014-07-14
+img: electric-bike.JPG
+thumbnail: electric-bike.JPG
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

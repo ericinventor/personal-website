@@ -1,11 +1,11 @@
 ---
-title: Treehouse
+title: Electric Ripstik
 subtitle: Website Design
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+img: electric-ripstik.jpg
+thumbnail: electric-ripstik.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

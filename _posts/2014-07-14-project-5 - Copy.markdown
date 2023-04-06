@@ -1,11 +1,11 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: Delta Table
+subtitle: Website Design
 layout: default
-modal-id: 6
-date: 2014-07-15
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+modal-id: 5
+date: 2014-07-14
+img: delta-table.jpg
+thumbnail: delta-table.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
