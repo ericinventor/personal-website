@@ -2,7 +2,7 @@
 title: MiniX Command Station
 subtitle: Graphic Design
 layout: default
-modal-id: 18
+modal-id: 19
 date: 2014-07-09
 img: minix-command.png
 thumbnail: minix-command.png

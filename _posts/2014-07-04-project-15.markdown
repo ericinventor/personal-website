@@ -4,8 +4,8 @@ subtitle: Graphic Design
 layout: default
 modal-id: 15
 date: 2014-07-09
-img: door-opener.jpg
-thumbnail: door-opener.jpg
+img: door-opener.JPG
+thumbnail: door-opener.JPG
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
