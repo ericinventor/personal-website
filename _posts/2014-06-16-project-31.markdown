@@ -4,8 +4,8 @@ subtitle: Graphic Design
 layout: default
 modal-id: 31
 date: 2014-07-09
-img: tank-robot.jpg
-thumbnail: tank-robot.jpg
+img: tank-robot.JPG
+thumbnail: tank-robot.JPG
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
