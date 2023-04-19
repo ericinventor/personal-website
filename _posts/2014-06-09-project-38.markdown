@@ -4,8 +4,8 @@ subtitle: Graphic Design
 layout: default
 modal-id: 38
 date: 2014-07-09
-img: nxt-joystick.jpg
-thumbnail: nxt-joystick.jpg
+img: nxt-joystick.JPG
+thumbnail: nxt-joystick.JPG
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
