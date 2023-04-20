@@ -15,21 +15,29 @@
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
                             <img src="{{ site.baseurl }}/img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-                            <p>{{ post.description }}</p>
+
                             <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">{{ post.client }}</a>
-                                    </strong>
-                                </li>
-                                <li>Date:
+                                <li>Project Date:
                                     <strong><a href="http://startbootstrap.com">{{ post.project-date }}</a>
                                     </strong>
                                 </li>
-                                <li>Service:
+                                <li>Age:
+                                    <strong><a href="http://startbootstrap.com">{{ post.age }}</a>
+                                    </strong>
+                                </li>
+                                <li>Project Type:
                                     <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
                                     </strong>
                                 </li>
                             </ul>
+                            
+                            <p>{{ post.description }}</p>
+
+                            {% if post.youtube-link == ""  or post.youtube-link == null %}
+                            {% else %}
+                            <iframe width="560" height="315" src="{{ post.youtube-link }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                            {% endif %}
+                            <br>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
