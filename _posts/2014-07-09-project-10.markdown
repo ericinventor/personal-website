@@ -9,7 +9,7 @@ thumbnail: wind-skateboard.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: robotics
+category: Electric-Vehicles
 description: description not yet added
 
 ---

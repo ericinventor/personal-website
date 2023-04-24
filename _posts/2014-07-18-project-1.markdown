@@ -9,7 +9,7 @@ thumbnail: drill-press-mini.jpg
 alt: image-alt
 project-date: 2020
 age: 23
-category: Tools + Machinery
+category: Mechatronics
 youtube-link: https://www.youtube.com/embed/T-ieUwOoqgw
 description: Since graduating I've moved so many times that it didn't make sense to buy large, heavy, and expensive tools and machinery, not to mention my workshop has typically been constrained to a small space in the places I've lived. I wanted a drill press, but I didnt want a big heavy one that wasn't easy to move, so I built this one. This drill press was made using a CNC Z-axis and a 500W motor, which I mounted to an aluminum frame made of plate and right-angle bar. The motor goes up and down using a 3D printed gearset and handcrank to spin the ballscrew on the z-axis. This drill press isn't heavy duty, but its a nice variable speed, light, and portable drill press for making perpendicular wholes in anything from plastic to aluminum. Check out my youtube video to see the build process and it in action.
 

@@ -9,7 +9,7 @@ thumbnail: wind-tunnel.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: robotics
+category: Mechatronics
 description: description not yet added
 
 ---

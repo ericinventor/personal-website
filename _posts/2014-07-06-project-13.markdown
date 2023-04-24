@@ -9,7 +9,7 @@ thumbnail: clapclap-light.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: robotics
+category: Robotics
 description: description not yet added
 
 ---
