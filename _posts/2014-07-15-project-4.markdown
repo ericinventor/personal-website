@@ -7,10 +7,10 @@ date: 2014-07-15
 img: electric-ripstik.jpg
 thumbnail: electric-ripstik.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: 2019
+age: 22
 category: Electric-Vehicles
-youtube-link:
-description: description not yet added
+youtube-link: https://www.youtube.com/embed/TvLzSv4LGxA
+description: I love skateboarding and snowboarding, but ripstiking is a magical combination of both. What makes ripstiks so cool is they are self-propelling, meaning you don't have to push them like a normal skateboard to get going. In fact, you can go uphill on a ripstik without ever touching the ground with your feet, which is awesome, but not at all fun. The best part about ripstiking is riding downhill, because you can carve and drift exactly like you're snowboarding, but you don't need any snow! The sad part is once you're at the bottom of the hill, getting to the top again is a struggle. That's why I invented this homemade electric ripstik! <br> <br> The tricky part about this design is that because both wheels are mounted on swiveling casters, any drivetrain would also have to swivel, and given the confined space and low ground clearance, that was not easy. I designed a compact drivetrain package consisting of a brushless outrunner, two pulleys, a belt, and 3D printed brackets. At first I only powered the rear wheel, then I thought, why not both!! The final version has identical ~1000W drivetrains on the front and the back, powered by two 4s Lipo batteries and hobby ESCs. The ESCs are controlled by a typical R/C receiver and transmitter combo, so I can hold a small wireless remote in my hand while riding. As with many of my projects, the 3D printed drive pulleys mounted to the motor wouldn't hold up for long, so I eventually CNCed them out of aluminum. I optimized the gear ratio to get serious torque with a decent top speed of about 17mph. It is unbelievably fun to ride!
 
 ---

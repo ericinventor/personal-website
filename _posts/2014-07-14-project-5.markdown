@@ -7,9 +7,10 @@ date: 2014-07-14
 img: electric-bike.JPG
 thumbnail: electric-bike.JPG
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: 2014
+age: 17
 category: Electric-Vehicles
-description: description not yet added
+youtube-link: https://www.youtube.com/embed/uvniCkAuvoI
+description: Before electric bike kits were cheapily and readily available, I decided I wanted to build one as cheaply as possible. My neighbor had just donated to me his non-working fully electric lawnmower, so I scrapped the rest of lawnmower except the batteries, motor, and wiring to build this electric bike. I decided to keep it simple with a friction drive, especially since the lawnmower circuitry was basically full power or no power, so a friction drive served as a psuedo-clutch. I used metal flat bar from Home Depot to rig the motor to hover over the rear tire, and built a cage to hold the two large 12V SLA batteries on either side of the frame between my legs. Finally, I wired the front brake lever to to the lawnmower lever switch. In the end I could get going about 18mph! While it didn't have much torque, the original pedals and gears were all still intact so I didn't have to rely solely on the friction drive on hills. Once I got going it worked great to coast through my neighborhood!
 
 ---

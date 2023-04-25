@@ -11,6 +11,9 @@ project-date: 2020
 age: 23
 category: Mechatronics
 youtube-link: https://www.youtube.com/embed/w26DHMccicE
-description: description not yet added
+shorts-link: https://www.youtube.com/embed/fqXXPpGTwpE
+description: This project became a necessity after all my 3D printed parts used in drivetrains for my electric vehicles just kept failing. The plastic pulleys kept melting when they got hot, or were getting worn to quickly. The goal was to be able to mill aluminum pulleys on a small desktop CNC without breaking the bank. I started off buy buying a cheap chinese CNC, called the Sainsmart Genmitsu 3018 for $300. Then over the course of about a year I started upgrading the components to make it capable of milling aluminum at a non glacial pace. The main modifications were upgrading the Y-axis rails to higher-quality rectangular rails that were stiffer, upgrading the Z-axis, and upgrading the spindle to a more powerful router. What I ended up with is a ~$600 desktop CNC that is very good at cutting 2-D profiles out of aluminum plate. This is perfect for making pulleys, brackets, mounts, and aluminum-engraved gifts! I have used this machine to mill parts for many of my other projects. Someday I want to build a desktop-sized mini lathe also. <br> <br> Check out the Youtube video below for more details on the upgrades, and all the links to the parts in the description.
+
+
 
 ---

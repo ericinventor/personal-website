@@ -7,10 +7,12 @@ date: 2014-07-16
 img: linear-actuator.jpg
 thumbnail: linear-actuator.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: 2022
+age: 25
 category: Mechatronics
 youtube-link:
-description: description not yet added
+shorts-link: https://www.youtube.com/embed/THrch29p6os
+shorts-link2: https://www.youtube.com/embed/dsxRMzLGXp8
+description: One of the companies I worked for, Moog, makes huge electro-mechaincal linear actuators for massive flight simulators used to train miliatry and commerical pilots. These 6-DOF stewart platforms are incredibly agile, and can manipulate very large loads at very high velocities. Moog makes some of the best performing actuators of this kind, but they are extremely expensive, and totally unnafforable to hobbyists/makers. The main applications for these types of actuators in the hobbyist/maker world are race simulators, flight simulators, and home automation (think secret bookcase or staircase, for example). In the case of the hobbyist race and flight simulators, these actuators need to be able to handle relaitvely high loads (moving a human) at decently high speeds in order to recreate motion of a car or airplane at high speeds. My goal with this project was to build a high-load, high-speed actuator at a reasonable price, let's say less than $1000. My other goal, was to make it very sexy, fully integrated--no boxy looking components or t-slotted frame assemblies. I paired a ~2000W brushless outrunner motor with an absolute encoder and an O-drive motor controller designed for precision robotic motion control. A ballscrew turns to drive the ball-nut forward and backward, extending or retracting the piston rod. I have just barely put this acuator to the test, but I know that it can lift me (~700N) at a decent speed (50mm/s)! There is plenty more to do with this actuator, inlcluding reinforcing the 3D printed rod ends with an aluminum sub-frame, so I can test thing thing with even higher loads. Check out the Youtube shorts videos below to see it in action <br><br> A full length Youtube video on this build should be coming soon!
 
 ---

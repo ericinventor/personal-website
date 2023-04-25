@@ -18,26 +18,32 @@
 
                             <ul class="list-inline item-details">
                                 <li>Project Date:
-                                    <strong><a href="http://startbootstrap.com">{{ post.project-date }}</a>
+                                    <strong style="color:#fe8336">{{ post.project-date }}</a>
                                     </strong>
                                 </li>
                                 <li>Age:
-                                    <strong><a href="http://startbootstrap.com">{{ post.age }}</a>
+                                    <strong style="color:#fe8336">{{ post.age }}</a>
                                     </strong>
                                 </li>
                                 <li>Project Type:
-                                    <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
+                                    <strong style="color:#fe8336">{{ post.category }}</a>
                                     </strong>
                                 </li>
                             </ul>
                             
-                            <p>{{ post.description }}</p>
+                            <p style="text-align: justify">{{ post.description }}</p>
 
-                            {% if post.youtube-link == ""  or post.youtube-link == null %}
-                            {% else %}
-                            <iframe width="560" height="315" src="{{ post.youtube-link }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                            {% if post.youtube-link%}
+                                <iframe width="700" height="394" src="{{ post.youtube-link }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                             {% endif %}
-                            <br>
+                            {% if post.shorts-link%}
+                                <iframe width="394" height="700" src="{{ post.shorts-link }}" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                            {% endif %}
+                            <br><br>
+                            {% if post.shorts-link2%}
+                                <iframe width="394" height="700" src="{{ post.shorts-link2 }}" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                            {% endif %}
+                            <br><br>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
