@@ -14,12 +14,12 @@ url: https://ericinventor.github.io
 baseurl: 
 
 title      : Eric Berg
-email      : your-email@example.com #this is also the email contact forms will go to
-description: "Site description"
+email      : ericinventor@gmail.com #this is also the email contact forms will go to
+description: "My personal website to showcase my portfolio"
 author     : Eric Berg
 # logo:     #optional, defaults to site title
-  # path: assets\img\clients\creative-market.jpg
-  # height: 60 #height in px, defaults to 52px
+#   path: /img/logos/ericinventor.png
+#   height: 60 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 
@@ -31,6 +31,18 @@ collections:
 
 markdown: kramdown
 
+plugins: 
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/eric-berg-65279q8/
+  - title: github
+    url: https://github.com/ericinventor/
+  - title: youtube
+    url: https://www.youtube.com/user/ericinventor
 # Uncomment following line to use Formspree form ID based URL instead of email based URL
 # Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
 # formspree_form_path: "f/a_form_id"
