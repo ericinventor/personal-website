@@ -10,7 +10,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-url: https://ericinventor.github.io
+url: https://ericinventor.com
 baseurl: 
 
 title      : Eric Berg
@@ -46,6 +46,7 @@ social:
     url: https://github.com/ericinventor/
   - title: youtube
     url: https://www.youtube.com/user/ericinventor
+    
 # Uncomment following line to use Formspree form ID based URL instead of email based URL
 # Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
-# formspree_form_path: "f/a_form_id"
+formspree_form_path: "f/mgebrdqg"
