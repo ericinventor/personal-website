@@ -7,9 +7,11 @@ date: 2014-07-09
 img: wind-skateboard.jpg
 thumbnail: wind-skateboard.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: 2017
+age: 20
 category: Electric-Vehicles
+youtube-link: https://www.youtube.com/embed/-U1sgiX_g5c
+shorts-link: https://www.youtube.com/embed/WSlJefvEBso
 description: description not yet added
 
 ---

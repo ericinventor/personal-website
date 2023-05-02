@@ -7,9 +7,10 @@ date: 2014-07-09
 img: clapclap-light.jpg
 thumbnail: clapclap-light.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: 2014
+age: 17
 category: Robotics
-description: description not yet added
+youtube-link: https://www.youtube.com/embed/Q_2ESsAiE8Y
+description: This was one of my first Arduino projects. It is a clapper light that I put in my room growing up. It will only flip the light switch if it recognizes two claps. I built it using an Arduino, a servo, a 9 volt, and a sound sensor/microphone. 
 
 ---

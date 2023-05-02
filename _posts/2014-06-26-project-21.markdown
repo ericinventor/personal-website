@@ -7,9 +7,12 @@ date: 2014-07-09
 img: razor-scooter.jpg
 thumbnail: razor-scooter.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: 2022
+age: 24
 category: Electric-Vehicles
-description: description not yet added
+youtube-link: https://www.youtube.com/embed/bDijs-BQ7JU
+shorts-link: https://www.youtube.com/embed/HcnKqZe2vaE
+shorts-link2: https://www.youtube.com/embed/lSm9kJggAx4
+description: Because I like speed...
 
 ---

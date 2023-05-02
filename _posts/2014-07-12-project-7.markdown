@@ -7,8 +7,8 @@ date: 2014-07-14
 img: rubiks-cube-solver.jpg
 thumbnail: rubiks-cube-solver.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: 2019
+age: 22
 category: Robotics
 description: description not yet added
 

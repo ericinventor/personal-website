@@ -7,9 +7,10 @@ date: 2014-07-09
 img: quad-rover.png
 thumbnail: quad-rover.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: 2013
+age: 16
 category: Robotics
-description: description not yet added
+youtube-link: https://www.youtube.com/embed/SzsHTCfwbkE
+description: An all-terrain rover vehicle built using the Lego Mindstorms NXT Robotics kit.
 
 ---

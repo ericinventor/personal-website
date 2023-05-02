@@ -7,8 +7,8 @@ date: 2014-07-09
 img: xboard.jpg
 thumbnail: xboard.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: 2018
+age: 21
 category: Electric-Vehicles
 description: description not yet added
 

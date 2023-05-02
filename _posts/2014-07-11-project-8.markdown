@@ -7,9 +7,10 @@ date: 2014-07-14
 img: quadcopter.jpg
 thumbnail: quadcopter.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: 2014
+age: 17
 category: Mechatronics
+youtube-link: https://www.youtube.com/embed/1rlmVwU0Bzw
 description: description not yet added
 
 ---

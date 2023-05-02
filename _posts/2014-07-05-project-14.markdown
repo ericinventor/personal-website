@@ -7,9 +7,10 @@ date: 2014-07-09
 img: servo-valve.png
 thumbnail: servo-valve.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: 2019
+age: 22
 category: Mechatronics
-description: description not yet added
+youtube-link: https://www.youtube.com/embed/S8OJ38VGYcc
+description: I built a servo valve (AKA proportional solenoid valve) using a simple ball valve and a high torque RC servo. Total cost ~$35. This valve can control the flow rate of liquid through it via an Arduino or any other microcontroller. 
 
 ---

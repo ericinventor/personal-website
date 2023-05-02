@@ -7,9 +7,10 @@ date: 2014-07-09
 img: wind-tunnel.jpg
 thumbnail: wind-tunnel.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: 2013
+age: 15
 category: Mechatronics
-description: description not yet added
+youtube-link: https://www.youtube.com/embed/qDQncRSlL8c
+description: This is a homemade model wind tunnel that I made for my AP physics class in high school. The model shows the effects of lift force on different foam airfoils.
 
 ---

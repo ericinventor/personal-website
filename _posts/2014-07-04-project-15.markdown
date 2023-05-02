@@ -7,9 +7,10 @@ date: 2014-07-09
 img: door-opener.JPG
 thumbnail: door-opener.JPG
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: 2011
+age: 14
 category: Robotics
-description: description not yet added
+youtube-link: https://www.youtube.com/embed/L_RVO3LpevE
+description: This contraption uses an ultrasonic sensor to detect someone entering the room and automatically opens the door. I built this using a Lego Mindstorms NXT Robotics kit.
 
 ---

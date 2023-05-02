@@ -7,9 +7,9 @@ date: 2014-07-09
 img: makemit-winner.jpg
 thumbnail: makemit-winner.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: 2017
+age: 20
 category: Robotics
-description: description not yet added
+description: These wearable devices are designed to assist blind people in two ways, by speaking what the camera sees, and by providing haptic feedback to the person's finger when they are approaching something. We used Microsoft's Computer Vision API to interpret what the camera was seeing and an Amazon Alexa to recite the image description out loud. This was our submission after 24hrs in MIT Makeathon 2017 with my friends Adam Weld and Padraig Lysandrou. We won the Amazon Sponsorship Prize for our prototype!
 
 ---

@@ -7,8 +7,8 @@ date: 2014-07-09
 img: minix-command.png
 thumbnail: minix-command.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: 2021
+age: 23
 category: Mechatronics
 description: description not yet added
 

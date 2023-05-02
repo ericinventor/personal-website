@@ -7,9 +7,10 @@ date: 2014-07-14
 img: electric-scooter.jpg
 thumbnail: electric-scooter.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: 2013
+age: 15
 category: Electric-Vehicles
+youtube-link: https://www.youtube.com/embed/Vr6SIEmcQsE
 description: description not yet added
 
 ---
