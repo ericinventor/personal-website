@@ -7,9 +7,9 @@ date: 2014-07-09
 img: maze-robot.jpg
 thumbnail: maze-robot.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: 2017
+age: 19
 category: Robotics
-description: description not yet added
+description: This was a robot we made for one of our electrical and computer engineering classes at Cornell. The goal was for it to autonomously naviagte a maze, and also detect the location of treasure (indicated by specific RF frequencies). This robot, I designed and 3D printed/laser cut all the mechanical components, including the frame, wheels, and sensor mounts. I implemented single point lidar time-of-flight sensors to detect the walls of the maze. I also did the software integration of the light sensors used for line following.
 
 ---

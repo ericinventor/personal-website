@@ -7,9 +7,11 @@ date: 2014-07-09
 img: vending-machine.jpg
 thumbnail: vending-machine.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: 2015
+age: 17
 category: Robotics
-description: description not yet added
+youtube-link: https://www.youtube.com/embed/5MzjFnlbWnc
+youtube-link2: https://www.youtube.com/embed/S_Y5gXYCPW4
+description: In high school, I founded our FIRST FRC Robotics team when I was a Junior. After competing in the FRC season, which is a short two months, the team, a big group of eager nerds, didn't have any projects until the next season. To fill our time, we decided we would take on an off-season project. I pitched to my school adminsitration the idea of keeping us busy with an extra project, and convinced them to fund our off-season budget. As team leader, I decided we would pick a project democratically, so after a few brainstorming sessions and a final vote, we landed on this- a robotic arm vending machine! <br><br> The project was quite ambitious, given it involved building an entire vending machine from scratch- frame, insulation, cooling, cash recevier, user interface, and on top of that a functioning robotic arm that could grab and dispense soda cans. It was truly a system of systems project. We set off, tackling one challenge at a time, building and testing subsystems independently first before integrating them together. We developed a custom touchscreen user interface, we built a large 3DOF robotic arm, a motorized carriage for the arm to rest on, a working cash-accepting system, a cooling unit, a dispensing slide, and the full vending machine frame structure. After 2 years, we got about 80 percent through with the project, and morale started to wane. People lost motivation in such a long, hard project. Unfortunately when I graduated high school, the Robotics Team which continued to grow and succeed after I left, let this project die. Please check out the two videos below to see the progress we made.
 
 ---

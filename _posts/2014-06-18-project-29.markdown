@@ -7,9 +7,10 @@ date: 2014-07-09
 img: robotic-arm.jpg
 thumbnail: robotic-arm.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: 2014
+age: 16
 category: Mechatronics
-description: description not yet added
+youtube-link: https://www.youtube.com/embed/SMOviZmf5VM
+description: One of my earliest experiments with robotics arms, this is a robotic arm that I made using two Lego NXT bricks and 6 servo motors. It is not super precise but it has lots of maneuverability with 5 degrees of freedom. It can be manually controlled by touch sensors and the NXT buttons. At this age, I did not yet know how to do inverse kinematics, so I didn't develop any form of end-effector control.
 
 ---

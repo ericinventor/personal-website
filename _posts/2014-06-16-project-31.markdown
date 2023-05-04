@@ -7,9 +7,10 @@ date: 2014-07-09
 img: tank-robot.JPG
 thumbnail: tank-robot.JPG
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: 2013
+age: 15
 category: Robotics
-description: description not yet added
+youtube-link: https://www.youtube.com/embed/fHvP5uDMyBk
+description: Lego tank I built for a high school science project.
 
 ---

@@ -7,9 +7,9 @@ date: 2014-07-09
 img: tennisball-cannon.jpg
 thumbnail: tennisball-cannon.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: 2014
+age: 16
 category: Random
-description: description not yet added
+description: I built this air-powered tennis ball cannon with a friend for a high school physics demonstration on projectile motion.
 
 ---

@@ -7,9 +7,9 @@ date: 2014-07-09
 img: actuated-joysticks.jpg
 thumbnail: actuated-joysticks.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: 2021
+age: 23
 category: Mechatronics
-description: description not yet added
+description: I actuated the joysticks of a 3-ton excavator with hobby-grade servos!
 
 ---

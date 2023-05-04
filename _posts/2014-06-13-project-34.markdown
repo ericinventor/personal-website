@@ -7,9 +7,10 @@ date: 2014-07-09
 img: mhd-drive.jpg
 thumbnail: mhd-drive.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: 2015
+age: 17
 category: Random
-description: description not yet added
+youtube-link: https://www.youtube.com/embed/2PUt-Er3U_U
+description: When I first discovered this physcial phenoma, that you can move water with electricity and magnetism, I was enthralled. I was much less excited when I realized why this technology has not gained traction in the industry- it takes a lot of power to produce a little force, so scaling the technology to have enough thrust to power a boat is not economically feasible.
 
 ---

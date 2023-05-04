@@ -1,5 +1,5 @@
 ---
-title: Joystic Remote Controller
+title: Joystick Remote Controller
 subtitle: Graphic Design
 layout: default
 modal-id: 38
@@ -7,9 +7,9 @@ date: 2014-07-09
 img: nxt-joystick.JPG
 thumbnail: nxt-joystick.JPG
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: 2013
+age: 15
 category: Mechatronics
-description: description not yet added
+description: I built this joystick to serve as a controller for my Lego Mindstorms tanks, cars, and rovers.
 
 ---

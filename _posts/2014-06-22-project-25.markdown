@@ -7,9 +7,11 @@ date: 2014-07-09
 img: rotary-table.png
 thumbnail: rotary-table.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: 2022
+age: 24
 category: Mechatronics
-description: description not yet added
+youtube-link: https://www.youtube.com/embed/pVv2Mxbs3S4
+shorts-link: https://www.youtube.com/embed/XsP-AUznSdI
+description:  I built this to film dynamic shots of things I make for my Youtube channel. I used a lazy-susan, a micro-servo whicih I converted to be continuous rotation, a servo tester to control the speed, and a small lipo battery. This design is super low profile, compact, elegant, torquey, and totally portable!
 
 ---

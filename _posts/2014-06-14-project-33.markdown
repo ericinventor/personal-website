@@ -7,9 +7,9 @@ date: 2014-07-09
 img: mpod-prototype.jpg
 thumbnail: mpod-prototype.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: 2021
+age: 23
 category: Electronics
-description: description not yet added
+description: I was hired by small biotech startup to design and build first prototypes for their first product, a COVID rapid test scanner. This involved integrating an Arducam Pico4ML microcontroller, SD card reader, lipo battery shield, buttons, LEDs, and other electronics into a device that could capture an image of the rapid test, feed the image into a neural network to determine the test result, and then display the results to the user and log the results to an sd card. I designed the device’s graphical user interface (GUI) and wrote embedded C++ software to integrate all electronics. I also used designed the test unit casings over many iterations using CAD and 3D printing.
 
 ---

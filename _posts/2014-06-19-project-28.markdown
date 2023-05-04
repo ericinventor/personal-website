@@ -7,9 +7,10 @@ date: 2014-07-09
 img: pencil-sharpener.jpg
 thumbnail: pencil-sharpener.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: 2016
+age: 18
 category: Random
-description: description not yet added
+youtube-link: https://www.youtube.com/embed/-e2ChvDm1pQ
+description: I made this for fun as a gift for my dad's birthday. Yes... I realize it's totally impractical.
 
 ---
