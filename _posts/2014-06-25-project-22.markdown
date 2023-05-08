@@ -10,6 +10,6 @@ alt: image-alt
 project-date: 2018
 age: 21
 category: Mechatronics
-description: Submission after 24hrs in MIT Makeathon 2018 with my friends Adam Weld and Padraig Lysandrou.
+description: Submission after 24hrs in MIT Makeathon 2018 with my friends Adam Weld and Padraig Lysandrou. <br><br><a href="https://devpost.com/software/bracex">MakeMIT Hackathon 2018 DevPost Project Page</a> 
 
 ---

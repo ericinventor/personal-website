@@ -10,6 +10,6 @@ alt: image-alt
 project-date: 2016
 age: 19
 category: Random
-description: Please see the paper published in the AIAA about our device called PALLAS (Portable Asteroid Lift and Lock Aggregate System) designed for the 2017 NASA Micro-g NExT Competition. https://arc.aiaa.org/doi/10.2514/6.2016-5534 
+description: Please see the paper published in the AIAA about our device called PALLAS (Portable Asteroid Lift and Lock Aggregate System) designed for the 2017 NASA Micro-g NExT Competition. <br><br><a href="https://arc.aiaa.org/doi/10.2514/6.2016-5534">AIAA Paper for Project PALLAS</a> 
 
 ---
