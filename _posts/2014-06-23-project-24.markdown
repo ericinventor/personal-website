@@ -5,11 +5,12 @@ layout: default
 modal-id: 24
 date: 2014-07-09
 img: telepresence-robot.jpg
+img-CAD: telepresence-robot-cad.png
 thumbnail: telepresence-robot.jpg
 alt: image-alt
 project-date: 2019
 age: 22
-category: Robotics
+category: Robotics , CADvsReal
 description: description not yet added
 
 ---

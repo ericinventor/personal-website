@@ -5,11 +5,13 @@ layout: default
 modal-id: 27
 date: 2014-07-09
 img: delta-platform.jpg
+img-CAD: delta-platform-cad.jpg
 thumbnail: delta-platform.jpg
 alt: image-alt
 project-date: 2017
 age: 19
-category: Mechatronics
+category: Mechatronics , CADvsReal
+youtube-link: https://www.youtube.com/embed/TQ0K6Z5QjWU?si=yXqCs7uPwBonW42e"
 description: This is a 3 DOF Delta robot motion table that two other friends and I built for a final project in my Cornell Electrical and Computer Engineering course called Microcontrollers. All project details including hardware description, hardware links, wiring diagrams, and source code can be found here. https://people.ece.cornell.edu/land/courses/ece4760/FinalProjects/f2017/psl58_aw698_eb645/psl58_aw698_eb645/index.html
 
 ---

@@ -5,11 +5,13 @@ layout: default
 modal-id: 9
 date: 2014-07-09
 img: xboard.jpg
+img-1: xboard-cad.png
+img-CAD: xboard-2.jpg
 thumbnail: xboard.jpg
 alt: image-alt
 project-date: 2018
 age: 21
-category: Electric-Vehicles
+category: Electric-Vehicles , CADvsReal
 description: description not yet added
 
 ---

@@ -15,7 +15,9 @@
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
                             <img src="{{ site.baseurl }}/img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-
+                            {% if post.img-CAD%}
+                                <img src="{{ site.baseurl }}/img/portfolio/{{ post.img-CAD }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                            {% endif %}
                             <ul class="list-inline item-details">
                                 <li>Project Date:
                                     <strong style="color:#fe8336">{{ post.project-date }}</a>
@@ -33,15 +35,17 @@
                             
                             <p style="text-align: justify">{{ post.description }}</p>
 
+                            {% if post.img-1%}
+                               <img src="{{ site.baseurl }}/img/portfolio/{{ post.img-1 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                            {% endif %}
+
                             {% if post.youtube-link%}
                                 <iframe class="youtube-video" src="{{ post.youtube-link }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                             {% endif %}
                             {% if post.youtube-link2%}
                                 <iframe class="youtube-video" src="{{ post.youtube-link2 }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                             {% endif %}
-                            {% if post.img-1%}
-                               <img src="{{ site.baseurl }}/img/portfolio/{{ post.img-1 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-                            {% endif %}
+                            
                             {% if post.shorts-link%}
                                 <iframe class="youtube-video-shorts" src="{{ post.shorts-link }}" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                             {% endif %}

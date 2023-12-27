@@ -5,11 +5,13 @@ layout: default
 modal-id: 39
 date: 2014-07-09
 img: electric-skateboard.jpg
+img-1: electric-skateboard-cad.JPG
+img-CAD: electric-skateboard-1.jpg
 thumbnail: electric-skateboard.jpg
 alt: image-alt
 project-date: 2015
 age: 18
-category: Electric-Vehicles
+category: Electric-Vehicles , CADvsReal
 youtube-link: https://www.youtube.com/embed/pmrfTLEv1Iw
 description: This was one of my homemade electric skateboards called the TriSkate. It is very lightweight, compact, and fast. 
 

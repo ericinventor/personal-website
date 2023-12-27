@@ -5,11 +5,12 @@ layout: default
 modal-id: 20
 date: 2014-07-09
 img: fpv-units.jpg
+img-CAD: fpv-units-cad.JPG
 thumbnail: fpv-units.jpg
 alt: image-alt
 project-date: 2023
 age: 25
-category: Electronics
+category: Electronics , CADvsReal
 description: description not yet added
 
 ---

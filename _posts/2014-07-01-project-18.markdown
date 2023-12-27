@@ -5,11 +5,13 @@ layout: default
 modal-id: 18
 date: 2014-07-09
 img: dirt-display.jpg
+img-CAD: dirt-display-cad.JPG
+img-1: dirt-display-cad-2.JPG
 thumbnail: dirt-display.jpg
 alt: image-alt
 project-date: 2017
 age: 20
-category: Electronics
+category: Electronics , CADvsReal
 description: description not yet added
 
 ---
