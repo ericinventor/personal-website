@@ -234,6 +234,16 @@ fieldset[disabled] .btn-xl.active {
     background-color: #{{ site.data.template.color.secondary }};
 }
 
+.youtube-video {
+    aspect-ratio: 16 / 9;
+    width: 100%;
+}
+
+.youtube-video-shorts {
+    aspect-ratio: 9 / 16;
+    width: 50%;
+}
+
 @media(min-width:768px) {
     .navbar-default {
         padding: 25px 0;

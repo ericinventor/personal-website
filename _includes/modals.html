@@ -34,20 +34,20 @@
                             <p style="text-align: justify">{{ post.description }}</p>
 
                             {% if post.youtube-link%}
-                                <iframe width="700" height="394" src="{{ post.youtube-link }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                                <iframe class="youtube-video" src="{{ post.youtube-link }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                             {% endif %}
                             {% if post.youtube-link2%}
-                                <iframe width="700" height="394" src="{{ post.youtube-link2 }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                                <iframe class="youtube-video" src="{{ post.youtube-link2 }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                             {% endif %}
                             {% if post.img-1%}
                                <img src="{{ site.baseurl }}/img/portfolio/{{ post.img-1 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             {% endif %}
                             {% if post.shorts-link%}
-                                <iframe width="394" height="700" src="{{ post.shorts-link }}" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                                <iframe class="youtube-video-shorts" src="{{ post.shorts-link }}" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                             {% endif %}
                             <br><br>
                             {% if post.shorts-link2%}
-                                <iframe width="394" height="700" src="{{ post.shorts-link2 }}" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                                <iframe class="youtube-video-shorts" src="{{ post.shorts-link2 }}" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                             {% endif %}
                             <br><br>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
