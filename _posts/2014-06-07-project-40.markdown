@@ -1,0 +1,17 @@
+---
+title: Fold Down TV
+subtitle: Graphic Design
+layout: default
+modal-id: 40
+date: 2014-07-09
+img: folddown-tv.jpg
+img-1: folddown-tv-electronics.jpg
+img-CAD: folddown-tv-back.JPG
+thumbnail: folddown-tv.jpg
+alt: image-alt
+project-date: 2024
+age: 26
+category: Mechatronics , Random
+youtube-link: https://www.youtube.com/embed/NGDfUJRVrR4?si=n0McX5RXaVsnykT8
+description: My TV was blocking all the natural light in my living room, so I made it come out of the ceiling. I used a high-torque geared motor and winch design to fold the TV up and down from a small sub frame mounted to the ceiling. I used an ESP32 wifi-enabled microcontroller to control the motor using a 2ch relay module. The TV can be controlled by a wireless remote I built using another ESP32 microcontroller, or using buttons on the back of the TV.
+---
