@@ -6,7 +6,7 @@ modal-id: 40
 date: 2014-07-09
 img: folddown-tv.jpg
 img-1: folddown-tv-electronics.jpg
-img-CAD: folddown-tv-back.JPG
+img-CAD: folddown-tv-back.jpg
 thumbnail: folddown-tv.jpg
 alt: image-alt
 project-date: 2024
